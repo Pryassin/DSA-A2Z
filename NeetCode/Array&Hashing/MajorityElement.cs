@@ -9,6 +9,7 @@ public class Solution
 }
 
 //Alternative and better way :
+// 3,4,2,3,2,3
 
 public class Solution
 {
