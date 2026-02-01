@@ -8,7 +8,7 @@ public class Solution {
         //[3,3,4,5]
         while(l<=r)
         {
-            int sum=people[l]+people[r];
+           int sum=people[l]+people[r];
            if(sum<=limit)
            {
             l++;
